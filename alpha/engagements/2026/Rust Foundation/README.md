@@ -28,3 +28,6 @@ In addition to the monthly reports here in GitHub, the Rust Foundation provides 
 * Marco Ieni - Infrastructure Engineer, Rust Foundation
 * Ubiratan Soares - Infrastructure Engineer, Rust Foundation
 * Joel Marcey - Director of Technology, Rust Foundation
+* Jess Izen - Engineer in Residence, Rust Foundation / AWS
+* Jacob Finkelman - Security Engineer in Residence, Rust Foundation
+* Arlo Siemsen - Distrubtion Engineer, Rust Foundation
